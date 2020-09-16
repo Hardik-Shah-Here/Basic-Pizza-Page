@@ -1,0 +1,142 @@
+h1{
+	background-color: #c28f04;
+    text-align:center;
+    text-decoration: small-caps;
+    text-shadow: 3px 3px 5px #ffffff;
+    top:0px;
+    margin:1px;
+    font-family:"helvetica Neue";
+}
+header > p{
+	text-align: center;
+}
+.description{
+	border:solid 1px #000000;
+	background-color: #89c204;
+	font-family:;
+}
+.ra{
+	display: inline-block;
+	font-family:sans-serif;
+	color:white;
+	width:15%;
+	border: solid 2px white;
+	margin-left:3px;
+	margin-right:3px;
+	border-radius: 15px;
+	text-align:center;
+}
+.ra:hover{
+	background:gray;
+}
+h2{
+	font-family:"Comic Sans MS";
+	font-style: italic;
+	text-align:center;
+}
+.first{
+	border: solid 0.5px #fcba03;
+	background:white;
+}
+.item1list{
+	border: solid 0.1px #fcba03;
+	background: #fcba03;
+	width:30%;
+	border-radius:18px;
+	display:inline-block;
+	margin:1%;
+	padding:3px;
+	text-align:center;
+}
+input{
+	margin:5px;
+	text-align:center;
+	font-size: 15px;
+}
+.item2list{
+	border: solid 0.1px #fcba03;
+	background: #fcba03;
+	width:30%;
+	border-radius:18px;
+	display:inline-block;
+	margin:1%;
+	padding:3px;
+	text-align:center;
+}
+h3{
+	margin-left:10px;
+	font-family:"Comic Sans MS";
+	font-weight:500;
+}
+.second{
+	border: solid 0.5px #fcba03;
+	background:white;
+	margin-top:12px;
+}
+img{
+	height:200px;
+	width:50%;
+	border-radius:20px;
+}
+.item3list{
+	border: solid 0.1px #fcba03;
+	background: #fcba03;
+	width:30%;
+	border-radius:18px;
+	display:inline-block;
+	margin:1%;
+	padding:3px;
+	text-align:center;
+}
+.second{
+	border: solid 0.5px #fcba03;
+	background:white;
+	margin-top:9px;
+}
+.third{
+	border: solid 0.5px #fcba03;
+	background:white;
+	margin-top: 12px;
+}
+.top{
+	text-align:center;
+	display:inline-block;
+	margin-left:34px;
+	margin-bottom:8px;
+	font-size:16px;
+
+}
+.own > p{
+	font-family:"Times New Roman";
+	text-align:center;
+	padding:2px;
+	font-size:18px;
+	
+}
+.own{
+	background:#e66109;
+}
+.own > h2{
+	text-decoration:underline;
+	
+}
+.own > h4{
+	margin-left:34px;
+	
+}
+button{
+	width:15%;
+	height:30px;
+	border:solid 2px white;
+	opacity:1;
+	margin-left:25%;
+    border-radius:30px;
+
+
+}
+.price4{
+	margin-left:34px;
+}
+button:hover{
+	opacity=1;
+}
